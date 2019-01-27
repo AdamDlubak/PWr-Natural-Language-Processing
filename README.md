@@ -1,4 +1,4 @@
-# Classification of queries for the system for answering questions for the Polish language
+# Classification of queries for question answering system for the Polish language
 ## Natural Language Processing
 
 ### Simple instruction
